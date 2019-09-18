@@ -10,6 +10,12 @@ public class MainActivity extends AppCompatActivity {
 
     TextView textView;
     EditText editText;
+    TextView textView2;
+    EditText editText2;
+
+    TextView textView3;
+    EditText editText3;
+
 
 
 
